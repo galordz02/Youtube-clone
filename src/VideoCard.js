@@ -1,5 +1,5 @@
 import React from 'react'
-import AccountCircleIcon from '@material-ui/icons/AccountCircle';
+import Avatar from '@material-ui/core/Avatar';
 
 
 function VideoCard( {image, title, channel, views, timestamp, channelImage} ) {
@@ -7,12 +7,12 @@ function VideoCard( {image, title, channel, views, timestamp, channelImage} ) {
         <div className="videoCard">
             <img src={image} alt=""/>
             <div className="videoCard_info">
-                <AccountCircleIcon 
+                <Avatar 
                 className="videoCard_avatar" 
                 alt={channel} 
                 src={channelImage}
                 />
-                <div class="video_text">
+                <div className="video_text">
                     <h4>{title}</h4>
                     <p>{channel}</p>
                     <p>{views} * {timestamp}</p>
