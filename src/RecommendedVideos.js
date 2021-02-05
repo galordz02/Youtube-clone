@@ -5,7 +5,6 @@ import VideoCard from "./VideoCard.js"
 function RecommendedVideos() {
     return (
         <div className="recommendedVideos">
-            <h2>Recommended</h2>
             <div className="recommendedVideos__videos" >
                 <VideoCard
                     image="https://i.ytimg.com/vi/SpgGHnkOQfo/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLBAKyHeUrI2oO0nTNy6xZPNdautlQ"
@@ -28,7 +27,7 @@ function RecommendedVideos() {
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwnharq1skvmpvesWLGoTLjXFfG5I7s1ycIqhv7wc=s68-c-k-c0x00ffffff-no-rj"
                     channel="ultravclet"
                     title="this playlist will make you feel like a 19th century villain"
-                    views="1,396,717 views"
+                    views="1.3 M views"
                     timestamp="1 month ago"
                 />
                  <VideoCard
@@ -36,7 +35,7 @@ function RecommendedVideos() {
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwnjqnUD_-NU2887NDMbNAU-GCgW40zWf6WCwgZ2M=s68-c-k-c0x00ffffff-no-rj"
                     channel="Jocko Podcast"
                     title="Jocko Podcast 98 w/ Jordan Peterson. Breaking Your Wretched Loop. Dangerous But Disciplined"
-                    views="2,238,557 views"
+                    views="2.2 M views"
                     timestamp="3 years ago"
                 />
                 <VideoCard
@@ -44,7 +43,7 @@ function RecommendedVideos() {
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwng3PQkyIzWRiu62V_vO7GF8KK3Me4rOXqlDCdb2XA=s88-c-k-c0x00ffffff-no-rj"
                     channel="The Beatles"
                     title="The Beatles - Don't Let Me Down"
-                    views="315,543,427 views"
+                    views="315.5 M views"
                     timestamp="5 years ago"
                 />
                 <VideoCard
@@ -52,7 +51,7 @@ function RecommendedVideos() {
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwni4AGzJtUXYq65ouThQXWJoVDCDadZNxIwx3WZF=s68-c-k-c0x00ffffff-no-rj"
                     channel="PowerfulJRE"
                     title="Joe Rogan Experience #1470 - Elon Musk"
-                    views="20,306,161 views"
+                    views="20.3 M views"
                     timestamp="8 months ago"
                 />
                 <VideoCard
@@ -68,7 +67,7 @@ function RecommendedVideos() {
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwngOcDGD-iWjvdZa4IZKkslzPLjPmkr025m25U-fEg=s68-c-k-c0x00ffffff-no-rj"
                     channel="Jaime Altozano"
                     title="6 canciones lo-fi que te volarán la cabeza"
-                    views="1,709,796 views"
+                    views="1,.7 M views"
                     timestamp="3 months ago"
                 />
                 <VideoCard
@@ -92,7 +91,7 @@ function RecommendedVideos() {
                     channelImage="https://yt3.ggpht.com/ytc/AAUvwnjkq7qWsIQZpUhsl6sQKAHlU4VP85XnmXZvLVWB=s68-c-k-c0x00ffffff-no-rj"
                     channel="James Jani"
                     title="The Untold Truth About Money: How to Build Wealth From Nothing."
-                    views="5,151,628 views"
+                    views="5.1 M views"
                     timestamp="9 months ago"
                 />
                 <VideoCard
